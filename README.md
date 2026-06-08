@@ -86,6 +86,10 @@ This project showcases the practical application of Advanced Excel functions for
 - CONCAT
 - TEXTJOIN
 
+  ### Data Analysis and Reporting
+- Pivot Table
+- Conditional Formatting
+
 ## Tools Used
 - Microsoft Excel
 
@@ -93,13 +97,16 @@ This project showcases the practical application of Advanced Excel functions for
 The objective of this project is to demonstrate proficiency in Advanced Excel functions used for business reporting, data validation, calculations, data retrieval, and text processing. This project highlights the ability to work with real-world datasets and perform efficient data analysis using Excel.
 
 ## Skills Demonstrated
+
+- Advanced Excel Functions
 - Data Analysis
-- Data Processing
-- Business Reporting
+- Data Reporting
+- Pivot Table Analysis
+- Conditional Formatting
 - Lookup Operations
-- Logical Calculations
+- Statistical Calculations
 - Text Manipulation
-- Excel Formula Development
+- Spreadsheet Management
 
 ## Conclusion
 This project serves as a practical demonstration of Advanced Excel skills and showcases the use of various functions to solve data-related problems efficiently.
