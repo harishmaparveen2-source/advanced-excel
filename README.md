@@ -86,7 +86,7 @@ This project showcases the practical application of Advanced Excel functions for
 - CONCAT
 - TEXTJOIN
 
-  ### Data Analysis and Reporting
+### Data Analysis and Reporting
 - PIVOT TABLE
 - CONDITIONAL FORMATTING
 
