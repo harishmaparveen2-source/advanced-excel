@@ -87,8 +87,8 @@ This project showcases the practical application of Advanced Excel functions for
 - TEXTJOIN
 
   ### Data Analysis and Reporting
-- Pivot Table
-- Conditional Formatting
+- PIVOT TABLE
+- CONDITIONAL FORMATTING
 
 ## Tools Used
 - Microsoft Excel
