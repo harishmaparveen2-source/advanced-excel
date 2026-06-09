@@ -1,6 +1,6 @@
 # Advanced Excel Project
 
-Project Overview
+## Project Overview
 
 This project demonstrates the use of advanced Microsoft Excel functions for data analysis, reporting, and decision-making. Various datasets were analyzed using logical, lookup, aggregation, and text functions to generate meaningful insights and improve data management efficiency.
 
