@@ -1,52 +1,81 @@
-Advanced Excel Project
-Project Overview
+# Advanced Excel Project
 
-This project showcases the practical application of Advanced Excel functions for data analysis, reporting, calculations, lookup operations, and text manipulation. The workbook contains multiple worksheets demonstrating commonly used Excel functions in business and data analysis scenarios.
 
-Project Objective
 
-The objective of this project is to demonstrate proficiency in Advanced Excel functions used for business reporting, data validation, calculations, data retrieval, and text processing. This project highlights the ability to work with real-world datasets and perform efficient data analysis using Excel.
+## Project Overview
 
-Functions Covered
-Statistical Functions
-MIN
-MAX
-AVERAGE
-SUM
-Lookup Functions
-HLOOKUP
-VLOOKUP
-IFERROR with VLOOKUP
-Logical Functions
-IF
-Conditional Functions
-SUMIF
-COUNTIFS
-Mathematical Functions
-SUMPRODUCT
-Text Functions
-CONCAT
-TEXTJOIN
-Data Analysis and Reporting
-Pivot Table
-Conditional Formatting
-Tools Used
-Microsoft Excel
-Skills Demonstrated
-Advanced Excel Functions
-Data Analysis
-Data Reporting
-Pivot Table Analysis
-Conditional Formatting
-Lookup Operations
-Statistical Calculations
-Text Manipulation
-Spreadsheet Management
-Problem Solving
-Conclusion
+- This project showcases the practical application of Advanced Excel functions for data analysis, reporting, calculations, lookup operations, and text manipulation. The workbook contains multiple worksheets demonstrating commonly used Excel functions in business and data analysis scenarios.
 
-This project serves as a practical demonstration of Advanced Excel skills and showcases the use of various functions to solve data-related problems efficiently.
+## Project Objective
 
-Author
+- The objective of this project is to demonstrate proficiency in Advanced Excel functions used for business reporting, data validation, calculations, data retrieval, and text processing. This project highlights the ability to work with real-world datasets and perform efficient data analysis using Excel.
 
-Harishma Parveen
+## Functions Covered
+### Statistical Functions
+
+- MIN
+
+- MAX
+
+- AVERAGE
+
+- SUM
+
+### Lookup Functions
+
+- HLOOKUP
+- VLOOKUP
+- IFERROR with VLOOKUP
+
+
+
+### Logical Functions
+
+- IF
+
+### Conditional Functions
+
+- SUMIF
+- COUNTIFS
+
+
+
+### Mathematical Functions
+
+- SUMPRODUCT
+
+### Text Functions
+
+- CONCAT
+- TEXTJOIN
+
+### Data Analysis and Reporting
+
+- Pivot Table
+- Conditional Formatting
+
+## Tools Used
+
+- Microsoft Excel
+
+## Skills Demonstrated
+
+# Advanced Excel Functions
+
+- Data Analysis
+- Data Reporting
+- Pivot Table Analysis
+- Conditional Formatting
+- Lookup Operations
+- Statistical Calculations
+- Text Manipulation
+- Spreadsheet Management
+- Problem Solving
+
+## Conclusion
+
+- This project serves as a practical demonstration of Advanced Excel skills and showcases the use of various functions to solve data-related problems efficiently.
+
+## Author
+
+- Harishma Parveen
