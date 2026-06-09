@@ -60,8 +60,6 @@
 
 ## Skills Demonstrated
 
-# Advanced Excel Functions
-
 - Data Analysis
 - Data Reporting
 - Pivot Table Analysis
