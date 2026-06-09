@@ -76,4 +76,4 @@
 
 ## Author
 
-- Harishma Parveen
+Harishma Parveen
