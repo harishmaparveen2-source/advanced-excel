@@ -43,8 +43,9 @@
 
 - SUMIF
 - COUNTIFS
+## 📊 Conditional Functions Output
 
-
+![SUMIF and COUNTIFS]()
 
 ### Mathematical Functions
 
