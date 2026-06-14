@@ -21,6 +21,10 @@
 
 - SUM
 
+## 📈 Statistical Functions Output
+
+![Statistical Functions](min_max_avg_sum.png)
+
 ### Lookup Functions
 
 - HLOOKUP
