@@ -1,14 +1,10 @@
 # Advanced Excel Project
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=analytics&logoColor=white)
-
-![Pivot Table](https://img.shields.io/badge/Pivot_Table-FF6F00?style=for-the-badge&logoColor=white)
-
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP-4285F4?style=for-the-badge&logoColor=white)
-
-![Data Reporting](https://img.shields.io/badge/Data_Reporting-6A1B9A?style=for-the-badge&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=flat&logo=analytics&logoColor=white)
+![Pivot Table](https://img.shields.io/badge/Pivot_Table-FF6F00?style=flat&logoColor=white)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-4285F4?style=flat&logoColor=white)
+![Data Reporting](https://img.shields.io/badge/Data_Reporting-6A1B9A?style=flat&logoColor=white)
 
 ## Project Overview
 
