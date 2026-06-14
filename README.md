@@ -31,11 +31,9 @@
 ## 🔍 HLookup Functions Output
 ![Lookup Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/2faa320bcc431e4ab1db5a0438c4d3e43805ec12/HLOOKUP.png)
 
-- VLOOKUP
-  ## 🔍 VLookup Functions Output
-![Lookup Functions](lookup_functions.png)
-
 - IFERROR with VLOOKUP
+   ## 🔍 VLookup & IFERROR Functions Output
+![Lookup Functions](lookup_functions.png)
 
 ### Logical Functions
 
