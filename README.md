@@ -23,7 +23,7 @@
 
 ## 📈 Statistical Functions Output
 
-![Statistical Functions](min_max_avg_sum.png)
+![Statistical Functions]([min_max_avg_sum.png](https://github.com/harishmaparveen2-source/advanced-excel/blob/main/MIN,MAX,AVG,SUM.png?raw=true))
 
 ### Lookup Functions
 
