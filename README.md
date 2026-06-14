@@ -58,6 +58,11 @@
 ### Data Analysis and Reporting
 
 - Pivot Table
+
+  ## 📊 Pivot Table Analysis
+
+![Pivot Table]()
+
 - Conditional Formatting
 
 ## 📊 Conditional Formatting Output
