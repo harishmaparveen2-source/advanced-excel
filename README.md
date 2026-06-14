@@ -30,7 +30,7 @@
 - HLOOKUP
 
 ## 🔍 HLookup Functions Output
-![Lookup Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/2faa320bcc431e4ab1db5a0438c4d3e43805ec12/HLOOKUP.png)
+![Lookup Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/29d626cae1284a49a80a1af8e79d197801baf216/HLOOKUP.png)
 
 - IFERROR with VLOOKUP
 
