@@ -8,11 +8,11 @@
 
 ## Project Overview
 
-- This project showcases the practical application of Advanced Excel functions for data analysis, reporting, calculations, lookup operations, and text manipulation. The workbook contains multiple worksheets demonstrating commonly used Excel functions in business and data analysis scenarios.
+    This project showcases the practical application of Advanced Excel functions for data analysis, reporting, calculations, lookup operations, and text manipulation. The workbook contains multiple worksheets demonstrating commonly used Excel functions in business and data analysis scenarios.
 
 ## Project Objective
 
-- The objective of this project is to demonstrate proficiency in Advanced Excel functions used for business reporting, data validation, calculations, data retrieval, and text processing. This project highlights the ability to work with real-world datasets and perform efficient data analysis using Excel.
+    The objective of this project is to demonstrate proficiency in Advanced Excel functions used for business reporting, data validation, calculations, data retrieval, and text processing. This project highlights the ability to work with real-world datasets and perform efficient data analysis using Excel.
 
 ## Functions Covered
 ### Statistical Functions
