@@ -59,9 +59,8 @@
 
 - Pivot Table
 
-  ## 📊 Pivot Table Analysis
-
-![Pivot Table]()
+## 📊 Pivot Table Analysis
+![Pivot Table](https://github.com/harishmaparveen2-source/advanced-excel/blob/fde40e7c74c709fdd4b56e38095c5148a259a978/POVIT%20TABLE.png)
 
 - Conditional Formatting
 
