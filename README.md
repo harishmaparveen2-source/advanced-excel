@@ -60,7 +60,7 @@
 - Pivot Table
 
 ## 📊 Pivot Table Analysis
-![Pivot Table](https://github.com/harishmaparveen2-source/advanced-excel/blob/fde40e7c74c709fdd4b56e38095c5148a259a978/POVIT%20TABLE.png)
+![Pivot Table](https://github.com/harishmaparveen2-source/advanced-excel/blob/d11c6ab6c5da4d5b75439aadfe50fcb98aa1b131/POVIT%20TABLE.png)
 
 - Conditional Formatting
 
