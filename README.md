@@ -35,7 +35,7 @@
 - IFERROR with VLOOKUP
 
 ## 🔍 IFERROR & VLookup Functions Output
-![Lookup Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/4d2ee5e89ec836926f6917412f50418a76d7fab5/VLOOKUP%20%26%20IFERROR.png)
+![Lookup Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/b07e4aec07316aeaba89cda5313f97b9435f6a0b/VLOOKUP%20%26%20IFERROR.png)
 
 ### Logical Functions
 
