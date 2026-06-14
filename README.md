@@ -65,7 +65,7 @@
 - Conditional Formatting
 
 ## 📊 Conditional Formatting Output
-![SUMIF and COUNTIFS](https://github.com/harishmaparveen2-source/advanced-excel/blob/ea602b60151100649e306c01132e6e572b0d564b/CONDITIONAL%20FORMAT.png)
+![SUMIF and COUNTIFS](https://github.com/harishmaparveen2-source/advanced-excel/blob/b5effbb40a443a0815315e05e26f42c2448a5fc8/CONDITIONAL%20FORMAT.png)
 
 
 ## Tools Used
