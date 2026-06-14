@@ -31,7 +31,9 @@
 - VLOOKUP
 - IFERROR with VLOOKUP
 
+## 🔍 Lookup Functions Output
 
+![Lookup Functions](lookup_functions.png)
 
 ### Logical Functions
 
