@@ -23,7 +23,7 @@
 
 ## 📈 Statistical Functions Output
 
-![Statistical Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/8a1b301cdf8c6bfdcb93f91efccd11902bcec888/MIN%2CMAX%2CAVG%2CSUM.png)
+![Statistical Functions](https://github.com/harishmaparveen2-source/advanced-excel/blob/1bc0a97cab68bce5efeff36bf42c69e41aadbf14/MIN%2CMAX%2CAVG%2CSUM.png)
 
 ### Lookup Functions
 
